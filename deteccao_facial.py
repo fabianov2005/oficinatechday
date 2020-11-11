@@ -1,4 +1,4 @@
-# Reconhecimento Facial
+# Detecção Facial
 
 import cv2
 
